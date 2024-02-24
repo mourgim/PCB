@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=CMPS1 NewDesignator=CMPS12
+Change Component Designator: OldDesignator=ESP1 NewDesignator=ESP82
+Change Component Designator: OldDesignator=GY1 NewDesignator=GY25
+Change Component Designator: OldDesignator=I1 NewDesignator=I2C
+Change Component Designator: OldDesignator=RC1 NewDesignator=RC
+Change Component Designator: OldDesignator=Uart1 NewDesignator=Uart
+Change Component Designator: OldDesignator=VL1 NewDesignator=VL53
+Added Member To Class: ClassName=Quad FC power V10.2 Member=Component C24 10uF
+Added Member To Class: ClassName=Quad FC power V10.2 Member=Component C27 10 µF
+Added Member To Class: ClassName=Quad FC power V10.2 Member=Component C29 10 µF
+Added Member To Class: ClassName=Quad FC power V10.2 Member=Component C32 10pF

@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=GND Pin=A1-1
+Removed Pin From Net: NetName=12V Pin=A1-3
+Removed Pin From Net: NetName=3V3 Pin=C27-+
+Removed Pin From Net: NetName=GND Pin=C27--
+Removed Pin From Net: NetName=GND Pin=R10-2
+Removed Member From Class: ClassName=Quad FC power V10.2 Member=A2
+Removed Member From Class: ClassName=Quad FC power V10.2 Member=C27
+Removed Member From Class: ClassName=Quad FC power V10.2 Member=D8
+Removed Member From Class: ClassName=Quad FC power V10.2 Member=R13
+Change Component Comment : Designator=A2 Old Comment=5V regulator New Comment=3.3V linear regulator
+Change Component Designator: OldDesignator=A2 NewDesignator=A1
+Change Component Designator: OldDesignator=C17 NewDesignator=C27
+Change Component Designator: OldDesignator=C18 NewDesignator=C17
+Change Component Designator: OldDesignator=C19 NewDesignator=C18
+Change Component Designator: OldDesignator=C20 NewDesignator=C21
+Change Component Designator: OldDesignator=C21 NewDesignator=C20
+Change Component Designator: OldDesignator=C23 NewDesignator=C32
+Change Component Designator: OldDesignator=C24 NewDesignator=C31
+Change Component Designator: OldDesignator=C25 NewDesignator=C23
+Change Component Designator: OldDesignator=C26 NewDesignator=C24
+Change Component Designator: OldDesignator=C28 NewDesignator=C29
+Change Component Designator: OldDesignator=C29 NewDesignator=C30
+Change Component Designator: OldDesignator=C30 NewDesignator=C28
+Change Component Designator: OldDesignator=C32 NewDesignator=C33
+Change Component Designator: OldDesignator=C34 NewDesignator=C19
+Change Component Designator: OldDesignator=CMPS12 NewDesignator=CMPS1
+Change Component Designator: OldDesignator=D7 NewDesignator=D6
+Change Component Designator: OldDesignator=D8 NewDesignator=D7
+Change Component Designator: OldDesignator=ESP82 NewDesignator=ESP1
+Change Component Designator: OldDesignator=F4 NewDesignator=F1
+Change Component Designator: OldDesignator=GY25 NewDesignator=GY1
+Change Component Designator: OldDesignator=I2C NewDesignator=I1
+Change Component Designator: OldDesignator=P5 NewDesignator=P2
+Change Component Designator: OldDesignator=R4 NewDesignator=R13
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R11
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=RC NewDesignator=RC1
+Change Component Designator: OldDesignator=Uart NewDesignator=Uart1
+Change Component Designator: OldDesignator=VL53 NewDesignator=VL1
+Added Component: Designator=C25(MY_CAP_SMD-B)
+Add component (AddParameter): Name = "Value"; Value = "3300u"; VariantName = "[No Variations]"
+Added Component: Designator=C26(MY_CAP_SMD-B)
+Add component (AddParameter): Name = "Value"; Value = "3300u"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=A1-3
+Added Pin To Net: NetName=12V Pin=C25-+
+Added Pin To Net: NetName=GND Pin=C25--
+Added Pin To Net: NetName=3V3 Pin=C26-+
+Added Pin To Net: NetName=GND Pin=C26--
+Change Net Name : Old Net Name=NetC17_1 New Net Name=NetC27_1
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC27_2
+Change Net Name : Old Net Name=NetC18_1 New Net Name=NetC17_1
+Change Net Name : Old Net Name=NetC19_1 New Net Name=NetC18_1
+Change Net Name : Old Net Name=NetC23_1 New Net Name=NetC32_1
+Change Net Name : Old Net Name=NetC24_1 New Net Name=NetC31_1
+Change Net Name : Old Net Name=NetC24_2 New Net Name=NetC31_2
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetF4_22 New Net Name=NetF1_22
+Change Net Name : Old Net Name=NetF4_94 New Net Name=NetF1_94
+Change Net Name : Old Net Name=NetR12_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR11_1
+Added Member To Class: ClassName=Quad FC power V10.2 Member=Component C25 10uF
+Added Member To Class: ClassName=Quad FC power V10.2 Member=Component C31 1nF

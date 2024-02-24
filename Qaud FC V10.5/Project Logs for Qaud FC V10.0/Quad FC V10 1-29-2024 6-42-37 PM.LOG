@@ -1,0 +1,112 @@
+Change Component Footprint: Designator=P1 Old Footprint=MO-Header 5 New Footprint=CONNECTOR1X8
+Change Component Comment : Designator=P2 Old Comment=MHDR_2X12 New Comment=Radio Control
+Change Component Comment : Designator=P1 Old Comment=MO-Header 5 New Comment=ESC connector
+Change component parameters: Designator = "P1" ("P1"); Footprint = "MO-Header 5"; UniqueID = "\JNOXOMYZ" ("\JNOXOMYZ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP0603)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD TOTAL PACKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP0603)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD TOTAL PACKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP0603)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD TOTAL PACKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(0603 - LED)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(Connector1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES0603)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD PAKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES0603)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD PAKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW_TL3301FF160QG)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TL3301FF160QG/E-Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TL3301FF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TL3301FF160QG/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TL3301FF160QG/E-Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y1(Crystal)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "R38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_2 Pin=A1-2
+Added Pin To Net: NetName=NetC4_2 Pin=A1-4
+Added Pin To Net: NetName=NetC4_2 Pin=C1-2
+Added Pin To Net: NetName=NetC4_2 Pin=C2-2
+Added Pin To Net: NetName=NetC4_2 Pin=C3-2
+Added Pin To Net: NetName=NetC4_2 Pin=C7-2
+Added Pin To Net: NetName=NetC4_2 Pin=C8-2
+Added Pin To Net: NetName=NetC4_2 Pin=C9-2
+Added Pin To Net: NetName=NetC4_2 Pin=C10-2
+Added Pin To Net: NetName=NetC4_2 Pin=C11-2
+Added Pin To Net: NetName=NetC4_2 Pin=C12-2
+Added Pin To Net: NetName=NetC4_2 Pin=C13-1
+Added Pin To Net: NetName=NetC4_2 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC4_2 Pin=D1-1
+Added Pin To Net: NetName=NetC4_2 Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetC4_2 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Change Net Name : Old Net Name=NetC4_2 New Net Name=3V3
+Added Pin To Net: NetName=F407 NRST Pin=P3-4
+Added Net: Name=F407 NRST
+Added Pin To Net: NetName=F407 OSC IN Pin=C15-2
+Added Pin To Net: NetName=F407 OSC IN Pin=Y1-1
+Added Net: Name=F407 OSC IN
+Added Pin To Net: NetName=F407 OSC OUT Pin=C16-1
+Added Pin To Net: NetName=F407 OSC OUT Pin=Y1-2
+Added Net: Name=F407 OSC OUT
+Added Pin To Net: NetName=F407 SWCLK Pin=P3-3
+Added Net: Name=F407 SWCLK
+Added Pin To Net: NetName=F407 SWDIO Pin=P3-2
+Added Net: Name=F407 SWDIO
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetLabel114 Pin=C?-1
+Added Pin To Net: NetName=NetLabel114 Pin=R2-2
+Added Pin To Net: NetName=NetLabel114 Pin=S1-1
+Added Pin To Net: NetName=NetLabel114 Pin=S1-2
+Added Net: Name=NetLabel114
+Change Class Name : Old Net Name=Sheet1 New Net Name=Quad FC V10.0
+Added Member To Class: ClassName=Quad FC V10.0 Member=Component C15 100nF
+Added Member To Class: ClassName=Quad FC V10.0 Member=Component C16 100nF
+Added Member To Class: ClassName=Quad FC V10.0 Member=Component C? 100nF
+Added Member To Class: ClassName=Quad FC V10.0 Member=Component D1 LED
+Added Member To Class: ClassName=Quad FC V10.0 Member=Component P3 Programming connector
+Added Member To Class: ClassName=Quad FC V10.0 Member=Component R1 1K
+Added Member To Class: ClassName=Quad FC V10.0 Member=Component R2 1K
+Added Member To Class: ClassName=Quad FC V10.0 Member=Component S1
+Added Member To Class: ClassName=Quad FC V10.0 Member=Component Y1 8 Mhz

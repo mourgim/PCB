@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GY87 SDA Pin=GY87-4
+Removed Pin From Net: NetName=GY87 SCL Pin=GY87-5
+Removed Pin From Net: NetName=GND Pin=GY87-6
+Removed Pin From Net: NetName=3V3 Pin=GY87-7
+Removed Pin From Net: NetName=5V Pin=GY87-8
+Removed Member From Class: ClassName=Quad FC V10.2 Member=GY87

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=GY78 NewDesignator=GY87
+Added Pin To Net: NetName=GND Pin=CMPS12-1
+Add Pin To Net: Unknown Pin: Pin MP1-9

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=3V3 Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=3V3 Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=3V3 Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=3V3 Pin=C21-2
+Removed Pin From Net: NetName=3V3 Pin=F4-6
+Removed Member From Class: ClassName=Quad FC V10.1 Member=C2
+Removed Member From Class: ClassName=Quad FC V10.1 Member=C5
+Removed Member From Class: ClassName=Quad FC V10.1 Member=C11
+Removed Member From Class: ClassName=Quad FC V10.1 Member=C21
+Add Pin To Net: Unknown Pin: Pin MP12V-9

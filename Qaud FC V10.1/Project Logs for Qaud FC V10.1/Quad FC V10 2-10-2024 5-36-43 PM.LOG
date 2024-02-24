@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=C33--
+Removed Pin From Net: NetName=GND Pin=C36--
+Removed Member From Class: ClassName=Quad FC power V10.0 Member=C33
+Removed Member From Class: ClassName=Quad FC power V10.0 Member=C36
+Added Pin To Net: NetName=GND Pin=A1-2
+Added Pin To Net: NetName=GND Pin=A1-3
+Added Pin To Net: NetName=GND Pin=A1-4
+Added Pin To Net: NetName=GND Pin=A2-3
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-+
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-+
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=GND Pin=GY87-8
+Added Pin To Net: NetName=GND Pin=LM3-2
+Add Pin To Net: Unknown Pin: Pin MP12V-9
+Added Pin To Net: NetName=GND Pin=R13-2
+Change Net Name : Old Net Name=GND New Net Name=5V
+Change Class Name : Old Net Name=Quad FC power V10.0 New Net Name=Quad FC power V10.1
+Change Class Name : Old Net Name=Quad FC V10.0 New Net Name=Quad FC V10.1

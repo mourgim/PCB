@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ESP82 RX Pin=F4-80
+Removed Pin From Net: NetName=ESP82 TX Pin=F4-83
+Added Pin To Net: NetName=ESP82 RX Pin=F4-25
+Added Pin To Net: NetName=ESP82 TX Pin=F4-26

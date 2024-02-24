@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3V3 Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Member From Class: ClassName=Quad FC V10.5 Member=C34

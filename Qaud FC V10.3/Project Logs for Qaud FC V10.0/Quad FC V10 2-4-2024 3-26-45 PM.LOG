@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=MP9486 FB Pin=MP94-1
+Removed Pin From Net: NetName=VBAT+ Pin=MP94-3
+Removed Pin From Net: NetName=NetC38_1 Pin=MP94-4
+Removed Pin From Net: NetName=NetC38_2 Pin=MP94-5
+Removed Pin From Net: NetName=GND Pin=MP94-8
+Removed Pin From Net: NetName=GND Pin=MP94-9
+Removed Member From Class: ClassName=Quad FC power V10.0 Member=MP94
+Added Component: Designator=IC1(SOIC127P600X170-9N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MP9486AGN-Z/Monolithic+Power+Systems+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MP9486AGN-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MP9486AGN-Z/Monolithic+Power+Systems+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MP9486 FB Pin=IC1-1
+Added Pin To Net: NetName=VBAT+ Pin=IC1-3
+Added Pin To Net: NetName=NetC38_1 Pin=IC1-4
+Added Pin To Net: NetName=NetC38_2 Pin=IC1-5
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-7
+Added Net: Name=NetIC1_6
+Added Member To Class: ClassName=Quad FC power V10.0 Member=Component IC1 MP9486AGN-Z

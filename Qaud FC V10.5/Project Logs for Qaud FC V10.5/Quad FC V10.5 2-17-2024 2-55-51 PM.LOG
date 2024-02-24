@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=3V3 Pin=P1-1
+Removed Pin From Net: NetName=F407 SWDIO Pin=P1-2
+Removed Pin From Net: NetName=F407 SWCLK Pin=P1-3
+Removed Pin From Net: NetName=F407 NRST Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-5
+Removed Member From Class: ClassName=Quad FC V10.5 Member=P1
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Class Member: Failed to add class member : Component J1 4 Pin
+Add Class Member: Failed to add class member : Component J2 4 Pin

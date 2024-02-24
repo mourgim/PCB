@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=3V3 Pin=VL53-1
+Removed Pin From Net: NetName=GND Pin=VL53-4
+Removed Member From Class: ClassName=Quad FC V10.5 Member=VL53
+Added Component: Designator=J2(JST B4B-PH-K)
+Add component (AddParameter): Name = "Part Number"; Value = "B4B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=3V3 Pin=J2-4
+Added Pin To Net: NetName=VL53_SCL Pin=J2-3
+Added Net: Name=VL53_SCL
+Added Pin To Net: NetName=VL53_SDA Pin=J2-2
+Added Net: Name=VL53_SDA
+Added Member To Class: ClassName=Quad FC V10.5 Member=Component J2 B4B-PH-K-S(LF)(SN)

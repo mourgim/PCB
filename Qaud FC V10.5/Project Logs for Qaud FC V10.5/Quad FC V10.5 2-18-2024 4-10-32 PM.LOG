@@ -1,0 +1,18 @@
+Added Component: Designator=R15(RES0603)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD PAKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES0603)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD PAKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=NetCMPS12_3 Pin=CMPS12-3
+Added Pin To Net: NetName=NetCMPS12_3 Pin=R15-1
+Added Pin To Net: NetName=NetCMPS12_3 Pin=R16-2
+Added Net: Name=NetCMPS12_3
+Added Member To Class: ClassName=Quad FC V10.5 Member=Component R15 0
+Added Member To Class: ClassName=Quad FC V10.5 Member=Component R16 0

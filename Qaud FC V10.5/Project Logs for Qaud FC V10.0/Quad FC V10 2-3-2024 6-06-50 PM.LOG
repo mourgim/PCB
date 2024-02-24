@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VBAT+ Pin=C35-+
+Removed Pin From Net: NetName=GND Pin=C35--
+Removed Pin From Net: NetName=12V Pin=C36-+
+Removed Pin From Net: NetName=GND Pin=C36--
+Change Component Footprint: Designator=C35 Old Footprint=MY_CAP_SMD-B New Footprint=CAP0603
+Change Component Footprint: Designator=C36 Old Footprint=MY_CAP_SMD-B New Footprint=CAP0603
+Change component parameters: Designator = "C35" ("C35"); Footprint = "MY_CAP_SMD-B"; UniqueID = "\HVFXTSFM" ("\HVFXTSFM")
+Change component parameters (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Desc."; Value = "CAP SMD TOTAL PACKAGES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36" ("C36"); Footprint = "MY_CAP_SMD-B"; UniqueID = "\QEECLLDP" ("\QEECLLDP")
+Change component parameters (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Desc."; Value = "CAP SMD TOTAL PACKAGES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT+ Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=12V Pin=C36-2

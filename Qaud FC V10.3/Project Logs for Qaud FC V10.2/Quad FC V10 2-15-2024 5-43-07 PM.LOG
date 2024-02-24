@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PWM MOTOR 4 Pin=F4-59
+Removed Pin From Net: NetName=PWM MOTOR 3 Pin=F4-60
+Removed Pin From Net: NetName=PWM MOTOR 2 Pin=F4-61
+Removed Pin From Net: NetName=PWM MOTOR 1 Pin=F4-62
+Added Pin To Net: NetName=PWM MOTOR 1 Pin=F4-59
+Added Pin To Net: NetName=PWM MOTOR 2 Pin=F4-60
+Added Pin To Net: NetName=PWM MOTOR 3 Pin=F4-61
+Added Pin To Net: NetName=PWM MOTOR 4 Pin=F4-62

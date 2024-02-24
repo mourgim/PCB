@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=3V3 Pin=A1-2
+Removed Pin From Net: NetName=3V3 Pin=A1-4
+Removed Pin From Net: NetName=3V3 Pin=C31-2
+Removed Pin From Net: NetName=3V3 Pin=C32-+
+Removed Pin From Net: NetName=VBAT+ Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=VBAT+ Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=MP9486 FB Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C44--
+Removed Pin From Net: NetName=GND Pin=D10-1
+Removed Pin From Net: NetName=MP9486 FB Pin=MP5V-1
+Removed Pin From Net: NetName=VBAT+ Pin=MP5V-3
+Removed Pin From Net: NetName=GND Pin=MP5V-8
+Removed Pin From Net: NetName=MP9486 FB Pin=R15-1
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=MP9486 FB Pin=R16-2
+Removed Member From Class: ClassName=Quad FC power V10.0 Member=C37
+Removed Member From Class: ClassName=Quad FC power V10.0 Member=C44
+Removed Member From Class: ClassName=Quad FC power V10.0 Member=C45
+Removed Member From Class: ClassName=Quad FC power V10.0 Member=LM2
+Removed Member From Class: ClassName=Quad FC power V10.0 Member=MP5V
+Removed Member From Class: ClassName=Quad FC power V10.0 Member=R16
+Change Component Footprint: Designator=C34 Old Footprint=CAPC3413X12N New Footprint=CAP0603
+Change Component Footprint: Designator=C35 Old Footprint=CAPC3413X12N New Footprint=MY_CAP_SMD-B
+Change Component Footprint: Designator=C36 Old Footprint=CAPC3413X12N New Footprint=MY_CAP_SMD-B
+Change Component Footprint: Designator=D10 Old Footprint=DIOM4226X244N New Footprint=0603 - LED
+Change Component Comment : Designator=C40 Old Comment=22uF New Comment=2.2uF
+Change Component Comment : Designator=C41 Old Comment=22uF New Comment=2.2uF
+Change Component Comment : Designator=C35 Old Comment=22uF New Comment=10uF
+Change Component Comment : Designator=C34 Old Comment=22uF New Comment=100nF
+Change Component Comment : Designator=C36 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=R15 Old Comment=240k New Comment=1K
+Change Component Comment : Designator=D10 Old Comment=SS34 New Comment=LED
+Change component parameters: Designator = "C34" ("C34"); Footprint = "CAPC3413X12N"; UniqueID = "\DNIOTCHE" ("\DNIOTCHE")
+Change component parameters (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Desc."; Value = "CAP SMD TOTAL PACKAGES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35" ("C35"); Footprint = "CAPC3413X12N"; UniqueID = "\KOFNFKAP" ("\KOFNFKAP")
+Change component parameters (AddParameter): Name = "Value"; Value = "3300u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36" ("C36"); Footprint = "CAPC3413X12N"; UniqueID = "\DQWGWFSW" ("\DQWGWFSW")
+Change component parameters (AddParameter): Name = "Value"; Value = "3300u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10" ("D10"); Footprint = "DIOM4226X244N"; UniqueID = "\PFITBDTQ" ("\PFITBDTQ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "LED-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=A2(SOT230P700X180-4N)
+Added Pin To Net: NetName=5V Pin=A1-2
+Added Pin To Net: NetName=5V Pin=A1-4
+Added Pin To Net: NetName=GND Pin=A2-1
+Added Pin To Net: NetName=3V3 Pin=A2-2
+Added Pin To Net: NetName=12V Pin=A2-3
+Added Pin To Net: NetName=3V3 Pin=A2-4
+Added Pin To Net: NetName=5V Pin=C31-2
+Added Pin To Net: NetName=5V Pin=C32-+
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=3V3 Pin=C34-2
+Added Pin To Net: NetName=3V3 Pin=C35-+
+Added Pin To Net: NetName=GND Pin=C35--
+Added Pin To Net: NetName=12V Pin=C36-+
+Added Pin To Net: NetName=GND Pin=C36--
+Added Pin To Net: NetName=5V Pin=D10-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=R15-1
+Added Net: Name=NetD10_2
+Added Member To Class: ClassName=Quad FC power V10.0 Member=Component A2 5V regulator

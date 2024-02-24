@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GY25 Rx Pin=F4-55
+Removed Pin From Net: NetName=GY25 Tx Pin=F4-56
+Added Pin To Net: NetName=GY25 Rx Pin=F4-80
+Added Pin To Net: NetName=GY25 Tx Pin=F4-83

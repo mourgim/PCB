@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=F407 OSC IN Pin=Y1-1
+Removed Pin From Net: NetName=F407 OSC OUT Pin=Y1-2
+Change Component Footprint: Designator=Y1 Old Footprint=Crystal New Footprint=My_Crystal - SMD
+Change Component Comment : Designator=Y1 Old Comment=8 Mhz New Comment=CRYSTAL_SMD
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "Crystal"; UniqueID = "\GBUFXOCW" ("\GBUFXOCW")
+Add Pin To Net: Unknown Pin: Pin MP12V-9
+Added Pin To Net: NetName=F407 OSC OUT Pin=Y1-1
+Added Pin To Net: NetName=F407 OSC IN Pin=Y1-2

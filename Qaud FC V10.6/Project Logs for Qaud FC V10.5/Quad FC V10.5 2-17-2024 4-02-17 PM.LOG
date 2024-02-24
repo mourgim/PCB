@@ -1,0 +1,7 @@
+Added Component: Designator=J1(HEADER 4X1)
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=F407 SWCLK Pin=J1-2
+Added Pin To Net: NetName=F407 SWDIO Pin=J1-3
+Added Pin To Net: NetName=3V3 Pin=J1-4
+Added Member To Class: ClassName=Quad FC V10.5 Member=Component J1 Header4X1
+Add Class Member: Failed to add class member : Component J2 4 Pin

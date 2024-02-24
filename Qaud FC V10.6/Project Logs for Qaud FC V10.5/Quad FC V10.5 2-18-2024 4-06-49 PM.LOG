@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=CMPS12_TX_SDA Pin=F4-48
+Added Pin To Net: NetName=CMPS12_RX_SCL Pin=F4-55
+Added Pin To Net: NetName=CMPS12_TX_SDA Pin=F4-56

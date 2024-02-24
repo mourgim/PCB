@@ -1,0 +1,114 @@
+Removed Pin From Net: NetName=12V Pin=C36-2
+Removed Pin From Net: NetName=12V Pin=LM2-2
+Removed Pin From Net: NetName=12V Pin=R18-2
+Added Component: Designator=C38(CAPC3413X12N)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAPC3413X12N)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=C40(CAPC3413X12N)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=C41(CAPC3413X12N)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=C42(CAPC3413X12N)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=C43(MY_CAP_SMD-B)
+Add component (AddParameter): Name = "Value"; Value = "3300u"; VariantName = "[No Variations]"
+Added Component: Designator=D8(DIOM4226X244N)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.aliexpress.com/item/Free-shipping-100pcs-1n5822-sma-smd-do-214ac-Schottky-diode-ss34/32337482329.html?spm=2114.01010208.3.1.zLZDsP&ws_ab_test=searchweb0_0,searchweb201602_4_10065_10068_10084_10083_10080_10082_10081_10060_10061_10062_10056_10055_10054_10059_10099_10078_10079_427_10073_10103_10102_10096_10052_10050_10051,searchweb201603_4&btsid=6e50dc92-ac69-45bc-a19e-209af19ce602"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor/Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part. No"; Value = "SS34"; VariantName = "[No Variations]"
+Added Component: Designator=LM3(IND_RLS-105)
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MP94(SOIC127P600X170-9N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MP9486AGN-Z/Monolithic+Power+Systems+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MP9486AGN-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MP9486AGN-Z/Monolithic+Power+Systems+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES0603)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD PAKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES0603)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD PAKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES0603)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD PAKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C36-2
+Added Pin To Net: NetName=VBAT+ Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=VBAT+ Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C43--
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=5V Pin=LM2-2
+Added Pin To Net: NetName=VBAT+ Pin=MP94-3
+Added Pin To Net: NetName=GND Pin=MP94-8
+Added Pin To Net: NetName=GND Pin=MP94-9
+Added Pin To Net: NetName=5V Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=MP9486 FB Pin=MP94-1
+Added Pin To Net: NetName=MP9486 FB Pin=R13-1
+Added Pin To Net: NetName=MP9486 FB Pin=R21-2
+Added Pin To Net: NetName=MP9486 FB Pin=R22-2
+Added Net: Name=MP9486 FB
+Added Pin To Net: NetName=NetC38_1 Pin=C38-1
+Added Pin To Net: NetName=NetC38_1 Pin=MP94-4
+Added Net: Name=NetC38_1
+Added Pin To Net: NetName=NetC38_2 Pin=C38-2
+Added Pin To Net: NetName=NetC38_2 Pin=D8-2
+Added Pin To Net: NetName=NetC38_2 Pin=LM3-1
+Added Pin To Net: NetName=NetC38_2 Pin=MP94-5
+Added Net: Name=NetC38_2
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC39_1 Pin=R22-1
+Added Net: Name=NetC39_1
+Added Pin To Net: NetName=NetC39_2 Pin=C39-2
+Added Pin To Net: NetName=NetC39_2 Pin=C42-2
+Added Pin To Net: NetName=NetC39_2 Pin=C43-+
+Added Pin To Net: NetName=NetC39_2 Pin=LM3-2
+Added Pin To Net: NetName=NetC39_2 Pin=R13-2
+Added Net: Name=NetC39_2
+Added Pin To Net: NetName=NetMP94_6 Pin=MP94-6
+Added Pin To Net: NetName=NetMP94_6 Pin=MP94-7
+Added Net: Name=NetMP94_6
+Added Member To Class: ClassName=Quad FC power V10.0 Member=Component C38 100nF
+Added Member To Class: ClassName=Quad FC power V10.0 Member=Component C39 100nF
+Added Member To Class: ClassName=Quad FC power V10.0 Member=Component C40 22uF
+Added Member To Class: ClassName=Quad FC power V10.0 Member=Component C41 22uF
+Added Member To Class: ClassName=Quad FC power V10.0 Member=Component C42 100nF
+Added Member To Class: ClassName=Quad FC power V10.0 Member=Component C43 Cap
+Added Member To Class: ClassName=Quad FC power V10.0 Member=Component D8 SS34
+Added Member To Class: ClassName=Quad FC power V10.0 Member=Component LM3 47uH
+Added Member To Class: ClassName=Quad FC power V10.0 Member=Component MP94 MP9486AGN-Z
+Added Member To Class: ClassName=Quad FC power V10.0 Member=Component R13 590k
+Added Member To Class: ClassName=Quad FC power V10.0 Member=Component R21 10k
+Added Member To Class: ClassName=Quad FC power V10.0 Member=Component R22 10k

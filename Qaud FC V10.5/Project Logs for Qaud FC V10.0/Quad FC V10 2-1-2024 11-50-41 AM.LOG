@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=5V Pin=C31-+
+Removed Pin From Net: NetName=GND Pin=C31--
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=3V3 Pin=C33-2
+Removed Member From Class: ClassName=Quad FC V10.0 Member=A1
+Removed Member From Class: ClassName=Quad FC V10.0 Member=C31
+Removed Member From Class: ClassName=Quad FC V10.0 Member=C32
+Removed Member From Class: ClassName=Quad FC V10.0 Member=C33
+Removed Member From Class: ClassName=Quad FC V10.0 Member=D1
+Removed Member From Class: ClassName=Quad FC V10.0 Member=D8
+Removed Member From Class: ClassName=Quad FC V10.0 Member=D9
+Removed Member From Class: ClassName=Quad FC V10.0 Member=P1
+Removed Member From Class: ClassName=Quad FC V10.0 Member=R1
+Removed Member From Class: ClassName=Quad FC V10.0 Member=R13
+Removed Member From Class: ClassName=Quad FC V10.0 Member=R14
+Change Component Footprint: Designator=C33 Old Footprint=CAP0603 New Footprint=MY_CAP_SMD-B
+Change Component Footprint: Designator=P1 Old Footprint=CONNECTOR1X8 New Footprint=JST S9B-PH-SM4-TB
+Change Component Footprint: Designator=C31 Old Footprint=MY_CAP_SMD-B New Footprint=CAP0603
+Change Component Comment : Designator=C31 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C33 Old Comment=100nF New Comment=10uF
+Change Component Designator: OldDesignator=S1 NewDesignator=S3
+Change Component Designator: OldDesignator=S2 NewDesignator=S1
+Change Component Designator: OldDesignator=S3 NewDesignator=S2
+Change component parameters: Designator = "C31" ("C31"); Footprint = "MY_CAP_SMD-B"; UniqueID = "\DMSMKCVB" ("\DMSMKCVB")
+Change component parameters (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Desc."; Value = "CAP SMD TOTAL PACKAGES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C33"); Footprint = "CAP0603"; UniqueID = "\FXUSDARM" ("\FXUSDARM")
+Change component parameters (AddParameter): Name = "Value"; Value = "3300u"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=3V3 Pin=C31-2
+Added Pin To Net: NetName=5V Pin=C33-+
+Added Pin To Net: NetName=GND Pin=C33--
+Added Pin To Net: NetName=3V3 Pin=F4-6
+Change Net Name : Old Net Name=PB1 New Net Name=PushButton1
+Change Net Name : Old Net Name=PB2 New Net Name=Pushbutton2
+Added Pin To Net: NetName=GY25 Rx Pin=P6-2
+Added Net: Name=GY25 Rx
+Added Pin To Net: NetName=GY25 Tx Pin=P6-3
+Added Net: Name=GY25 Tx
+Added Class: Name=Quad FC power V10.0

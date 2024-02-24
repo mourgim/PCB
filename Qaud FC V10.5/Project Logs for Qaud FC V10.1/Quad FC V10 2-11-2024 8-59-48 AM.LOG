@@ -1,0 +1,47 @@
+Removed Member From Class: ClassName=Quad FC V10.1 Member=D5
+Removed Member From Class: ClassName=Quad FC power V10.1 Member=R8
+Change Component Comment : Designator=P3 Old Comment=MHDR_1X04 New Comment=I2C
+Change Component Comment : Designator=P2 Old Comment=MHDR_1X04 New Comment=Uart
+Change Component Designator: OldDesignator=P2 NewDesignator=Uart
+Change Component Designator: OldDesignator=P3 NewDesignator=I2C
+Added Component: Designator=C34(CAP0603)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD TOTAL PACKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAP0603)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD TOTAL PACKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VL53(JST BM04B-SURS-TF)
+Added Pin To Net: NetName=3V3 Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=3V3 Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=3V3 Pin=CMPS12-6
+Add Pin To Net: Unknown Pin: Pin MP1-9
+Added Pin To Net: NetName=3V3 Pin=VL53-1
+Added Pin To Net: NetName=GND Pin=VL53-4
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component C3 100nF
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component C4 100nF
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component C9 100nF
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component C10 4.7uF
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component C12 100nF
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component C14 100nF
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component C18 2.2uF
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component C20 100nF
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component C22 100nF
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component C24 100nF
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component C34 100nF
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component C35 100nF
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component D1 LED
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component D3 LED
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component R4 1K
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component R7 1K
+Added Member To Class: ClassName=Quad FC power V10.1 Member=Component R9 1K
+Added Member To Class: ClassName=Quad FC power V10.1 Member=Component R13 10k
+Added Member To Class: ClassName=Quad FC power V10.1 Member=Component R14 10k
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component S1
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component Uart
+Added Member To Class: ClassName=Quad FC V10.1 Member=Component VL53

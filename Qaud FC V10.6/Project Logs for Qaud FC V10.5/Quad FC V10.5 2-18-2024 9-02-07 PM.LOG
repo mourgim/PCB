@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J2 Old Footprint=JST B4B-PH-K New Footprint=JST SM04B-SURS-TF
+Change Component Comment : Designator=J2 Old Comment=B4B-PH-K-S(LF)(SN) New Comment=SM04B-SURS-TF(LF)(SN)
+Change component parameters: Designator = "J2" ("J2"); Footprint = "JST B4B-PH-K"; UniqueID = "\UJVLTQWO" ("\UJVLTQWO")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "SM04B-SURS-TF(LF)(SN)"; VariantName = "[No Variations]"

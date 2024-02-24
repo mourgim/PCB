@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=3V3 Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=3V3 Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=3V3 Pin=I2C-1
+Removed Pin From Net: NetName=GND Pin=I2C-4
+Removed Pin From Net: NetName=3V3 Pin=Uart-1
+Removed Pin From Net: NetName=GND Pin=Uart-4
+Removed Member From Class: ClassName=Quad FC V10.5 Member=C20
+Removed Member From Class: ClassName=Quad FC V10.5 Member=C21
+Removed Member From Class: ClassName=Quad FC V10.5 Member=I2C
+Removed Member From Class: ClassName=Quad FC V10.5 Member=Uart
+Change Component Comment : Designator=J1 Old Comment=Header4X1 New Comment=Programming Pin
+Added Pin To Net: NetName=CMPS12_RX_SCL Pin=CMPS12-4
+Added Net: Name=CMPS12_RX_SCL
+Added Pin To Net: NetName=CMPS12_TX_SDA Pin=CMPS12-5
+Added Net: Name=CMPS12_TX_SDA
+Add Class Member: Failed to add class member : Component J2 4 Pin

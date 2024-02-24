@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=PWM MOTOR 3 Pin=F4-31
+Removed Pin From Net: NetName=PWM MOTOR 4 Pin=F4-32
+Removed Pin From Net: NetName=PWM MOTOR 1 Pin=F4-35
+Removed Pin From Net: NetName=PWM MOTOR 2 Pin=F4-36
+Removed Pin From Net: NetName=ESP82 RX Pin=F4-80
+Removed Pin From Net: NetName=ESP82 TX Pin=F4-83
+Added Pin To Net: NetName=ESP82 RX Pin=F4-55
+Added Pin To Net: NetName=ESP82 TX Pin=F4-56
+Added Pin To Net: NetName=PWM MOTOR 1 Pin=F4-59
+Added Pin To Net: NetName=PWM MOTOR 2 Pin=F4-60
+Added Pin To Net: NetName=PWM MOTOR 3 Pin=F4-61
+Added Pin To Net: NetName=PWM MOTOR 4 Pin=F4-62
+Add Pin To Net: Unknown Pin: Pin MP1-9

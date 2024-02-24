@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P9 Old Footprint=MHDR1X04-254P New Footprint=JST BM04B-SURS-TF
+Change Component Footprint: Designator=P11 Old Footprint=MHDR1X04-254P New Footprint=JST BM04B-SURS-TF
+Add Pin To Net: Unknown Pin: Pin MP12V-9

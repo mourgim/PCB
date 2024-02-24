@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=5V Pin=C31-2
+Removed Pin From Net: NetName=5V Pin=C32-+
+Removed Pin From Net: NetName=GND Pin=C32--
+Removed Member From Class: ClassName=Quad FC power V10.1 Member=C31
+Removed Member From Class: ClassName=Quad FC power V10.1 Member=C32
+Add Pin To Net: Unknown Pin: Pin MP12V-9

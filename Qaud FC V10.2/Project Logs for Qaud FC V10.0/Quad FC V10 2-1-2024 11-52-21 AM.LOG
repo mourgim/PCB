@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P1 Old Footprint=JST S9B-PH-SM4-TB New Footprint=JST S8B-PH-SM4-TB
+Added Member To Class: ClassName=Quad FC V10.0 Member=Component S1
+Added Member To Class: ClassName=Quad FC V10.0 Member=Component S3
