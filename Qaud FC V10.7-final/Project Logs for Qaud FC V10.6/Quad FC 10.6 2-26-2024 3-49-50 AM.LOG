@@ -1,0 +1,5 @@
+Change Component Comment : Designator=Y1 Old Comment=CRYSTAL_SMD New Comment=8MHz
+Change Net Name : Old Net Name=PWM MOTOR 1 New Net Name=PWM MOTOR 4
+Change Net Name : Old Net Name=PWM MOTOR 2 New Net Name=PWM MOTOR 3
+Change Net Name : Old Net Name=PWM MOTOR 3 New Net Name=PWM MOTOR 2
+Change Net Name : Old Net Name=PWM MOTOR 4 New Net Name=PWM MOTOR 1

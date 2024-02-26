@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=Jetson_Uart_RX Pin=F4-55
+Added Pin To Net: NetName=Jetson_Uart_TX Pin=F4-56

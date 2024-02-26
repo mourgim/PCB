@@ -1,0 +1,8 @@
+Change Pin Designator/Name:  Old Designator=F4A-43 Old Name=PE12 New Designator =PB12 New Name=51
+Change Pin Designator/Name:  Old Designator=F4A-44 Old Name=PE13 New Designator =PA10 New Name=69
+Change Pin Designator/Name:  Old Designator=F4A-51 Old Name=PB12 New Designator =PE12 New Name=43
+Change Pin Designator/Name:  Old Designator=F4A-69 Old Name=PA10 New Designator =PE13 New Name=44
+Change Pin Designator/Name:  Old Designator=F4A-77 Old Name=PA15(JTDI) New Designator =PB8 New Name=95
+Change Pin Designator/Name:  Old Designator=F4A-95 Old Name=PB8 New Designator =PA15(JTDI) New Name=77
+Change Pin Designator/Name:  Old Designator=F4A-96 Old Name=PB9 New Designator =PE1 New Name=98
+Change Pin Designator/Name:  Old Designator=F4A-98 Old Name=PE1 New Designator =PB9 New Name=96

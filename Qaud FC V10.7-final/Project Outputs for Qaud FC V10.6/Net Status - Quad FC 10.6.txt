@@ -1,0 +1,58 @@
+Net Status Report
+Filename     : E:\altium 22 porjects\Qaud FC V10.6\Quad FC 10.6.7.PcbDoc
+Date         : 2/24/2024
+Time         : 6:44:40 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    12V, Signal Layers Only, 812.185mils
+    3V3, Signal Layers Only, 0mils
+    CMPS12_RX_SCL, Signal Layers Only, 0mils
+    CMPS12_TX_SDA, Signal Layers Only, 0mils
+    ESC Rx, Signal Layers Only, 0mils
+    ESC Tx, Signal Layers Only, 0mils
+    ESP82 Rx, Signal Layers Only, 0mils
+    ESP82 Tx, Signal Layers Only, 0mils
+    F407 NRST, Signal Layers Only, 0mils
+    F407 SWCLK, Signal Layers Only, 0mils
+    F407 SWDIO, Signal Layers Only, 0mils
+    F407_OSC_N, Signal Layers Only, 784.228mils
+    F407_OSC_P, Signal Layers Only, 781.42mils
+    GND, Signal Layers Only, 0mils
+    GY25 Rx, Signal Layers Only, 0mils
+    GY25 Tx, Signal Layers Only, 0mils
+    Jetson_Uart_RX, Signal Layers Only, 0mils
+    Jetson_Uart_TX, Signal Layers Only, 0mils
+    LED1, Signal Layers Only, 0mils
+    LED2, Signal Layers Only, 0mils
+    LED3, Signal Layers Only, 0mils
+    LED4, Signal Layers Only, 0mils
+    NetC17_1, Signal Layers Only, 0mils
+    NetC18_1, Signal Layers Only, 0mils
+    NetC1_2, Signal Layers Only, 0mils
+    NetC26_1, Signal Layers Only, 0mils
+    NetC26_2, Signal Layers Only, 259.76mils
+    NetC30_1, Signal Layers Only, 165.039mils
+    NetC30_2, Signal Layers Only, 54.173mils
+    NetC31_1, Signal Layers Only, 114.978mils
+    NetCMPS12_3, Signal Layers Only, 0mils
+    NetD1_2, Signal Layers Only, 0mils
+    NetD2_2, Signal Layers Only, 0mils
+    NetD3_2, Signal Layers Only, 0mils
+    NetD4_2, Signal Layers Only, 0mils
+    NetD5_2, Signal Layers Only, 0mils
+    NetD6_2, Signal Layers Only, 0mils
+    NetF4_22, Signal Layers Only, 0mils
+    NetF4_94, Signal Layers Only, 0mils
+    NetR10_1, Signal Layers Only, 428mils
+    NetR11_1, Signal Layers Only, 211.904mils
+    PWM MOTOR 1, Signal Layers Only, 0mils
+    PWM MOTOR 2, Signal Layers Only, 0mils
+    PWM MOTOR 3, Signal Layers Only, 0mils
+    PWM MOTOR 4, Signal Layers Only, 0mils
+    RC PWM INPUT 1, Signal Layers Only, 0mils
+    RC PWM INPUT 2, Signal Layers Only, 0mils
+    VBAT+, Signal Layers Only, 0mils
+    VL53_SCL, Signal Layers Only, 0mils
+    VL53_SDA, Signal Layers Only, 0mils
+count : 50

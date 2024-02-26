@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CMPS12_RX_SCL Pin=F4-47
+Removed Pin From Net: NetName=CMPS12_TX_SDA Pin=F4-48
+Removed Pin From Net: NetName=VL53_SCL Pin=F4-92
+Removed Pin From Net: NetName=VL53_SDA Pin=F4-93
+Added Pin To Net: NetName=VL53_SCL Pin=F4-47
+Added Pin To Net: NetName=VL53_SDA Pin=F4-48
+Added Pin To Net: NetName=CMPS12_RX_SCL Pin=F4-92
+Added Pin To Net: NetName=CMPS12_TX_SDA Pin=F4-93

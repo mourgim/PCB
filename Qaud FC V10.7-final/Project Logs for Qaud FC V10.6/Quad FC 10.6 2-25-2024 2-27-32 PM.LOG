@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=ESC-1
+Removed Pin From Net: NetName=VBAT+ Pin=ESC-2
+Removed Pin From Net: NetName=Current control Pin=ESC-7
+Removed Pin From Net: NetName=ESC Tx Pin=ESC-8
+Removed Pin From Net: NetName=ESC Rx Pin=F4-55
+Removed Pin From Net: NetName=ESC Tx Pin=F4-56
+Added Pin To Net: NetName=Current control Pin=ESC-2
+Added Pin To Net: NetName=VBAT+ Pin=ESC-7
+Added Pin To Net: NetName=GND Pin=ESC-8
+Added Pin To Net: NetName=ESC Rx Pin=F4-63
+Added Pin To Net: NetName=ESC Tx Pin=F4-64

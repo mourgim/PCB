@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=D7-1
+Removed Pin From Net: NetName=NetC26_1 Pin=D7-2
+Removed Pin From Net: NetName=GND Pin=ESC-M
+Removed Pin From Net: NetName=GND Pin=ESC-M
+Removed Pin From Net: NetName=GND Pin=RC-M
+Removed Pin From Net: NetName=GND Pin=RC-M
+Removed Pin From Net: NetName=GND Pin=VL53-M
+Removed Pin From Net: NetName=GND Pin=VL53-M
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Added Pin To Net: NetName=GND Pin=D7-1
+Added Pin To Net: NetName=NetC26_1 Pin=D7-2
+Added Member To Class: ClassName=Quad FC power V10.6 Member=Component D7 SS34L RVG
+Added Room: Name=Quad FC power V10.6
+Added Room: Name=Quad FC V10.6
